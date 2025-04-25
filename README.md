@@ -15,7 +15,7 @@ Product Attributes: Store detailed specifications and features
 # Database Schema
 ER Diagram 
 
-#Team Members
+# Team Members
 Sinothando Johnson,
 Kibet Mary Jeptepkeny
 
